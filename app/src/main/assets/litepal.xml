@@ -1,0 +1,14 @@
+<litepal>
+
+    <dbname  value = "hippo_weather"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.hippoweather.android.db.Province"/>
+        <mapping class="com.hippoweather.android.db.City"/>
+        <mapping class="com.hippoweather.android.db.County"/>
+    </list>
+
+
+</litepal>
